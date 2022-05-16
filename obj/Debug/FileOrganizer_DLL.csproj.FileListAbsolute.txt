@@ -9,3 +9,10 @@ C:\Users\bbayrakli\source\repos\FileOrganizer_DLL\FileOrganizer_DLL\obj\Debug\Fi
 C:\Users\bbayrakli\source\repos\FileOrganizer_DLL\FileOrganizer_DLL\obj\Debug\FileOrganizer_DLL.csproj.CopyComplete
 C:\Users\bbayrakli\source\repos\FileOrganizer_DLL\FileOrganizer_DLL\obj\Debug\FileOrganizer_DLL.dll
 C:\Users\bbayrakli\source\repos\FileOrganizer_DLL\FileOrganizer_DLL\obj\Debug\FileOrganizer_DLL.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\bin\Debug\FileOrganizer_DLL.dll
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\bin\Debug\FileOrganizer_DLL.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\obj\Debug\FileOrganizer_DLL.csproj.AssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\obj\Debug\FileOrganizer_DLL.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\obj\Debug\FileOrganizer_DLL.csproj.CopyComplete
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\obj\Debug\FileOrganizer_DLL.dll
+C:\Users\bbayrakli\Desktop\My_Repo\FolderOperations_DLL\obj\Debug\FileOrganizer_DLL.pdb

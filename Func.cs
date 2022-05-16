@@ -7,6 +7,7 @@ using System.IO;
 using Microsoft.WindowsAPICodePack.Shell;
 using System.Windows.Forms;
 using System.Drawing;
+using System.Diagnostics;
 
 namespace FileOrganizer_DLL
 {
@@ -32,7 +33,7 @@ namespace FileOrganizer_DLL
         }
         public void CopyFile(string sourceFile, string destinationFolder, string FileSpecificString) // sourceFile is created in DragDrop Event
         {
-            //FileSpecificString = DateTime.Now.ToString("yyMMdd-HHmmss");
+            FileSpecificString = DateTime.Now.ToString("yyMMdd-HHmmss");
             string Extension = Path.GetExtension(sourceFile);
             string destinationFile = destinationFolder + FileSpecificString + Extension;
 
@@ -41,6 +42,11 @@ namespace FileOrganizer_DLL
                 MessageBox.Show("File Already Exists.");
             }
             File.Copy(sourceFile, destinationFile, true);
+        }
+
+        public void OpenFile(string sourceFileName)
+        {
+            Process.Start(sourceFileName);
         }
 
     }
